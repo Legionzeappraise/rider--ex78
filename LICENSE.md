@@ -1,4 +1,4 @@
-# 
+# automatic JetBrains Rider for PC | JetBrains Rider for Windows Tool | build-automation + intelligent-suggestions is the best JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
